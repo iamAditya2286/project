@@ -1,0 +1,26 @@
+table{
+    font-size: 1.3em;
+}
+td{
+    padding-top: 15px;
+}
+input{
+    border-radius: 12px;
+    width: 254px;
+}
+button{
+    margin-top:15px;
+    width: 130px;
+    height:40px;
+    border-radius:12px;
+    background-color: aqua;
+}
+a{
+    border: 2px solid red;
+    font-size: 1.4em;
+    margin-right:113px;
+    padding:20px;
+    background-color:grey;
+    color: white;
+    text-decoration: none;
+}
